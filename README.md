@@ -25,20 +25,24 @@ I’m following a structured roadmap to become a full-stack engineer capable of 
 ###### Security
 
 
+---
 
 ### 2) 📊 **Data Science Foundations**  
 #### My skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=postgres,py&perline=3)](https://skillicons.dev)
 
-
+---
 ### 3) 🔧 **Backend Development**  
 #### My skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java&perline=3)](https://skillicons.dev)
 
+---
 
 ### 4) 🎨 **Frontend Development**
 #### My skills and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&perline=3)](https://skillicons.dev)
+
+---
 
 ### 5) 🎨 **DevOPS**
 #### My skills and Tools
