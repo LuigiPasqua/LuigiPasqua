@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luigi Pasqua — Entrepreneur & Software Engineer in Training
+# 👋 Hi, I'm Luigi Pasqua — Future Start-Up Founder & Software Engineer in Training
 
 I’m building the bridge between **business strategy** and **technical execution**.  
 Currently diving deep into software engineering — from high-level architecture to full-stack implementation.
