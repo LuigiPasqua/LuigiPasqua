@@ -5,14 +5,44 @@ Currently diving deep into software engineering — from high-level architecture
 
 ---
 
-## 🚀 My Focus Areas
+## 🚀 My Focus Areas And Respective Skills
 
 I’m following a structured roadmap to become a full-stack engineer capable of building impactful digital products:
 
-- 🧱 **Software Architecture & System Design**  
-- 📊 **Data Science Foundations**  
-- 🔧 **Backend Development**  
-- 🎨 **Frontend Development**
+### 1) 🧱 **Software Architecture & System Design**  
+#### My skills and Tools
+##### Scalability
+
+
+##### Performance
+[![My Skills](https://skillicons.dev/icons?i=redis&perline=3)](https://skillicons.dev)
+
+
+
+###### Availability
+
+
+###### Security
+
+
+
+### 2) 📊 **Data Science Foundations**  
+#### My skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=postgres,py&perline=3)](https://skillicons.dev)
+
+
+### 3) 🔧 **Backend Development**  
+#### My skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java&perline=3)](https://skillicons.dev)
+
+
+### 4) 🎨 **Frontend Development**
+#### My skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&perline=3)](https://skillicons.dev)
+
+### 5) 🎨 **DevOPS**
+#### My skills and Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
 
 ---
 
