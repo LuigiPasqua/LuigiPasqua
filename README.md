@@ -65,12 +65,3 @@ Currently diving deep into software engineering — from high-level architecture
 | GitHub      | [github.com/LuigiPasqua](https://github.com/LuigiPasqua)        |
 | LinkedIn    | [linkedin.com/in/LuigiPasqua](https://www.linkedin.com/in/luigi-pasqua-6b639012a)   |
 
-
----
-
-## 🏅 Badges (Optional, Dynamic)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME)](https://git.io/streak-stats)
-
----
