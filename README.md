@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luigi Pasqua — Software Engineer
+# 👋 Hi, I'm Luigi Pasqua — Software Engineer (And Future Start-Up Founder)
 
 Building the bridge between **business strategy** and **technical execution**.  
 Currently diving deep into software engineering — from high-level architecture to full-stack implementation.
@@ -30,8 +30,8 @@ Currently diving deep into software engineering — from high-level architecture
 | Project            | Brief Description                         | Technologies                  | Status    | Link         |
 |--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
 | System X           | Business automation platform              | NodeJS, React, Postgres       | 🚧 WIP    | [View](#)    |
-| API Y              | Robust API for service integration        | Java, Postgres                | 🟢 Live   | [View](#)    |
-| DataViz Lab        | Interactive data dashboard                | Python, Plotly                | 🟢 Live   | [View](#)    |
+| API Y              | Robust API for service integration        | Java, Postgres                | 🚧 WIP   | [View](#)    |
+| DataViz Lab        | Interactive data dashboard                | Python, Plotly                | 🚧 WIP   | [View](#)    |
 
 ---
 
@@ -39,10 +39,10 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Stage        | Status         | Next Goal                           |
 |--------------|---------------|-------------------------------------|
-| Fundamentals | ✅ Completed   | -                                   |
-| Back-end     | 🟡 In Progress | Mastering API architecture          |
-| Front-end    | 🟡 In Progress | Advanced React & Typescript         |
-| Data         | 🟡 In Progress | Real-world Data Science projects    |
+| Front-End Masters | 🟡 In Progress | Back-End Enginnering                                   |
+| PluralSight     | 🔜 Upcoming  | Data Science         |
+| DataCamp   | 🔜 Upcoming  | Advanced React & Typescript         |
+| Data         | 🔜 Upcoming  | Real-world Data Science projects    |
 | DevOps       | 🔜 Upcoming    | CI/CD, automation, cloud            |
 
 ---
