@@ -12,6 +12,16 @@ Currently diving deep into software engineering — from high-level architecture
 > **Unite the founder’s mindset with the builder’s skillset.**
 
 ---
+## ⚡ Core Principles
+
+| Principle / Philosophy                | Direct Application                                  |
+|---------------------------------------|-----------------------------------------------------|
+| **First Principles**                  | Solve root causes, not symptoms                     |
+| **Systematic Execution**              | Methodical, consistent structure in every project   |
+| **Learning in Public**                | Share wins, fails, and code in real time            |
+| **Founder Mindset**                   | Product vision + hands-on technical delivery        |
+
+---
 
 ## 🚀 Focus Areas & Skills
 
@@ -45,16 +55,7 @@ Currently diving deep into software engineering — from high-level architecture
 | Data         | 🔜 Upcoming  | Real-world Data Science projects    |
 | DevOps       | 🔜 Upcoming    | CI/CD, automation, cloud            |
 
----
 
-## ⚡ Core Principles
-
-| Principle / Philosophy                | Direct Application                                  |
-|---------------------------------------|-----------------------------------------------------|
-| **First Principles**                  | Solve root causes, not symptoms                     |
-| **Systematic Execution**              | Methodical, consistent structure in every project   |
-| **Learning in Public**                | Share wins, fails, and code in real time            |
-| **Founder Mindset**                   | Product vision + hands-on technical delivery        |
 
 ---
 
