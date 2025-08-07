@@ -1,78 +1,76 @@
 # 👋 Hi, I'm Luigi Pasqua — Software Engineer
 
-I’m building the bridge between **business strategy** and **technical execution**.  
+Building the bridge between **business strategy** and **technical execution**.  
 Currently diving deep into software engineering — from high-level architecture to full-stack implementation.
 
 ---
 
-## 🚀 My Focus Areas And Respective Skills
+## 💼 Mission
 
-I’m following a structured roadmap to become a full-stack engineer capable of building impactful digital products:
-
-### 1) 🧱 **Software Architecture & System Design**  
-#### My skills and Tools
-##### Scalability
-
-
-##### Performance
-[![My Skills](https://skillicons.dev/icons?i=redis&perline=3)](https://skillicons.dev)
-
-
-
-###### Availability
-
-
-###### Security
-
+> **Transform bold ideas into scalable systems.**  
+> **Engineer products that matter.**  
+> **Unite the founder’s mindset with the builder’s skillset.**
 
 ---
 
-### 2) 📊 **Data Science Foundations**  
-#### My skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=postgres,py&perline=3)](https://skillicons.dev)
+## 🚀 Focus Areas & Skills
 
----
-### 3) 🔧 **Backend Development**  
-#### My skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,java&perline=3)](https://skillicons.dev)
-
----
-
-### 4) 🎨 **Frontend Development**
-#### My skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts&perline=3)](https://skillicons.dev)
+| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 |
+|---------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|
+| **Software Architecture & System Design** | Scalability, Performance, Availability, Security| [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)             |
+| **Data Science Foundations**          | Data Enginnering, Data Analysis, ML, Data Visualization         | [![Postgres](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)    |
+| **Backend Development**               | Security, Logic, API      | [![NodeJS](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)      |
+| **Frontend Development**              | UX, UI, Components             | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) |
+| **DevOPS**                            | CI/CD, Versioning, Automation, Linux           | [![Git](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)    |
 
 ---
 
-### 5) 🎨 **DevOPS**
-#### My skills and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
+## 🏆 Featured Projects
+
+| Project            | Brief Description                         | Technologies                  | Status    | Link         |
+|--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
+| System X           | Business automation platform              | NodeJS, React, Postgres       | 🚧 WIP    | [View](#)    |
+| API Y              | Robust API for service integration        | Java, Postgres                | 🟢 Live   | [View](#)    |
+| DataViz Lab        | Interactive data dashboard                | Python, Plotly                | 🟢 Live   | [View](#)    |
 
 ---
 
-## 🧠 My Learning Journey
+## 🗺️ Learning Roadmap
 
-I'm learning in public, sharing progress, code, and reflections here on GitHub.  
-This includes:
-
-- 🧪 Projects and experiments  
-- 📚 Study repositories  
-- 🛠️ Technical prototypes  
-- ✍️ Notes and code snippets
-
-> GitHub is my all-in-one lab: **portfolio**, **playground**, and **product incubator**.
+| Stage        | Status         | Next Goal                           |
+|--------------|---------------|-------------------------------------|
+| Fundamentals | ✅ Completed   | -                                   |
+| Back-end     | 🟡 In Progress | Mastering API architecture          |
+| Front-end    | 🟡 In Progress | Advanced React & Typescript         |
+| Data         | 🟡 In Progress | Real-world Data Science projects    |
+| DevOps       | 🔜 Upcoming    | CI/CD, automation, cloud            |
 
 ---
 
-## 💼 My Mission
+## ⚡ Core Principles
 
-To **transform bold ideas into scalable systems**.  
-To **engineer products that matter**.  
-To **unite the mindset of a founder with the skillset of a builder**.
+| Principle / Philosophy                | Direct Application                                  |
+|---------------------------------------|-----------------------------------------------------|
+| **First Principles**                  | Solve root causes, not symptoms                     |
+| **Systematic Execution**              | Methodical, consistent structure in every project   |
+| **Learning in Public**                | Share wins, fails, and code in real time            |
+| **Founder Mindset**                   | Product vision + hands-on technical delivery        |
 
 ---
 
-## 🌱 Let’s Connect
+## 📫 Contact
 
-Feel free to check my projects, follow my journey, or collaborate on something meaningful.  
-Let’s build something great!
+| Channel     | Link                                 |
+|-------------|--------------------------------------|
+| GitHub      | [github.com/YOUR-USERNAME](#)        |
+| LinkedIn    | [linkedin.com/in/YOUR-USERNAME](#)   |
+| Email       | your@email.com                       |
+
+---
+
+## 🏅 Badges (Optional, Dynamic)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME)](https://git.io/streak-stats)
+
+---
