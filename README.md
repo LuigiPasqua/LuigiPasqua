@@ -47,13 +47,13 @@ Currently diving deep into software engineering — from high-level architecture
 
 ## 🗺️ Learning Roadmap
 
-| Stage        | Status         | Next Goal                           |
-|--------------|---------------|-------------------------------------|
-| Front-End Masters | 🟡 In Progress | Back-End Enginnering                                   |
-| PluralSight     | 🔜 Upcoming  | Data Science         |
-| DataCamp   | 🔜 Upcoming  | Advanced React & Typescript         |
-| Data         | 🔜 Upcoming  | Real-world Data Science projects    |
-| DevOps       | 🔜 Upcoming    | CI/CD, automation, cloud            |
+| Stage        | Status         | 
+|--------------|---------------|
+| Front-End Masters | 🟡 In Progress | 
+| PluralSight     | 🔜 Upcoming  | 
+| DataCamp   | 🔜 Upcoming  | 
+| Data         | 🔜 Upcoming  |
+| DevOps       | 🔜 Upcoming    | 
 
 
 
