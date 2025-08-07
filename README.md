@@ -25,13 +25,13 @@ Currently diving deep into software engineering — from high-level architecture
 
 ## 🚀 Focus Areas & Skills
 
-| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 |
-|---------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|
-| **Software Architecture & System Design** | Scalability, Performance, Availability, Security| [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)             |
-| **Data Science Foundations**          | Data Enginnering, Data Analysis, ML, Data Visualization         | [![Postgres](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)    |
-| **Backend Development**               | Security, Logic, API      | [![NodeJS](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)      |
-| **Frontend Development**              | UX, UI, Components             | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) |
-| **DevOPS**                            | CI/CD, Versioning, Automation, Linux           | [![Git](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)    |
+| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 | 🎯 Mini Projects |
+|-------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|------------------|
+| **Software Architecture & System Design** | Scalability, Performance, Availability, Security| [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)             | |
+| **Data Science Foundations**        | Data Engineering, Data Analysis, ML, Data Visualization | [![Postgres](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)    | |
+| **Backend Development**             | Security, Logic, API                          | [![NodeJS](https://skillicons.dev/icons?i=nodejs,java)](https://skillicons.dev)      | |
+| **Frontend Development**            | UX, UI, Components                            | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) | |
+| **DevOPS**                          | CI/CD, Versioning, Automation, Linux          | [![Git](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)    | |
 
 ---
 
