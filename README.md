@@ -62,9 +62,9 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Channel     | Link                                 |
 |-------------|--------------------------------------|
-| GitHub      | [github.com/YOUR-USERNAME](#)        |
-| LinkedIn    | [linkedin.com/in/YOUR-USERNAME](#)   |
-| Email       | your@email.com                       |
+| GitHub      | [github.com/LuigiPasqua](https://github.com/LuigiPasqua)        |
+| LinkedIn    | [linkedin.com/in/LuigiPasqua(https://www.linkedin.com/in/luigi-pasqua-6b639012a)   |
+
 
 ---
 
