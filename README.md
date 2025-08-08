@@ -25,7 +25,7 @@ Currently diving deep into software engineering — from high-level architecture
 
 ## 🚀 Focus Areas & Skills
 
-| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 | 🎯 Mini Projects |
+| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 | 🎯 Tools & Mini Projects |
 |-------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|------------------|
 | **Software Architecture & System Design** | Scalability, Performance, Availability, Security| [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) | [🏗️ SpecForge - Architecture Documentation Framework ](https://github.com/LuigiPasqua/SpecForge)|
 | **Data Science Foundations**        | Data Engineering, Data Analysis, ML, Data Visualization | [![Postgres](https://skillicons.dev/icons?i=postgres,py)](https://skillicons.dev)    | |
