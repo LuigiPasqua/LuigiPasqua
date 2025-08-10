@@ -39,9 +39,9 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Project            | Brief Description                         | Technologies                  | Status    | Link         |
 |--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
-| System X           | Business automation platform              | NodeJS, React, Postgres       | 🚧 WIP    | [View](#)    |
-| API Y              | Robust API for service integration        | Java, Postgres                | 🚧 WIP   | [View](#)    |
-| DataViz Lab        | Interactive data dashboard                | Python, Plotly                | 🚧 WIP   | [View](#)    |
+|          |               |        |     | [View](#)    |
+|              |        |                |   | [View](#)    |
+|         |                |                 |   | [View](#)    |
 
 ---
 
@@ -52,8 +52,8 @@ Currently diving deep into software engineering — from high-level architecture
 | Front-End Masters | 🟡 In Progress | 
 | PluralSight     | 🔜 Upcoming  | 
 | DataCamp   | 🔜 Upcoming  | 
-| Data         | 🔜 Upcoming  |
-| DevOps       | 🔜 Upcoming    | 
+| TryHackMe         | 🔜 Upcoming  |
+
 
 
 
