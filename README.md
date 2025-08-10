@@ -65,4 +65,6 @@ Currently diving deep into software engineering — from high-level architecture
 |-------------|--------------------------------------|
 | GitHub      | [github.com/LuigiPasqua](https://github.com/LuigiPasqua)        |
 | LinkedIn    | [linkedin.com/in/LuigiPasqua](https://www.linkedin.com/in/luigi-pasqua-6b639012a)   |
+| X | [https://x.com/luigipasquaofc](https://x.com/luigipasquaofc)
+| Instagram| [https://www.instagram.com/luigipasquaoficial](https://www.instagram.com/luigipasquaoficial)
 
