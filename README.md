@@ -25,13 +25,13 @@ Currently diving deep into software engineering — from high-level architecture
 
 ## 🚀 Focus Areas & Skills
 
-| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 | 🎯 Tools & Mini Projects |
-|-------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|------------------|
-| **Software Architecture & System Design** | Scalability, Performance, Availability, Security|  | [🏗️ SpecForge - Architecture Documentation Framework ](https://github.com/LuigiPasqua/SpecForge)|
-| **Data Science Foundations**        | Data Engineering, Data Analysis, ML, Data Visualization | [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)    | |
-| **Backend Development**             | Security, Logic, API                          | [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)      | |
-| **Frontend Development**            | UX, UI, Components                            | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) | |
-| **DevOPS**                          | CI/CD, Versioning, Automation, Linux          | [![Git](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)    | |
+| Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 |
+|-------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|
+| **Software Architecture & System Design** | First Principles Of Software Architecture| [🏗️ SpecForge - Architecture Documentation Framework ](https://github.com/LuigiPasqua/SpecForge)|
+| **Data Science Foundations**        | Data Engineering, Data Analysis, ML, Data Visualization | [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)    |
+| **Backend Development**             | Security, Logic, API                          | [![NodeJS](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)      |
+| **Frontend Development**            | UX, UI, Components                            | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) |
+| **DevOPS**                          | CI/CD, Versioning, Automation, Linux          | [![Git](https://skillicons.dev/icons?i=git,github,linux)](https://skillicons.dev)    |
 
 ---
 
@@ -39,20 +39,7 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Project            | Brief Description                         | Technologies                  | Status    | Link         |
 |--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
-|          |               |        |     | [View](#)    |
-|              |        |                |   | [View](#)    |
-|         |                |                 |   | [View](#)    |
-
----
-
-## 🗺️ Learning Roadmap
-
-| Stage        | Status         | 
-|--------------|---------------|
-| Front-End Masters | 🟡 In Progress | 
-| PluralSight     | 🔜 Upcoming  | 
-| DataCamp   | 🔜 Upcoming  | 
-| TryHackMe         | 🔜 Upcoming  |
+| InvoiceFlow |  InvoiceFlow is a PERN stack SaaS app for freelancers to manage invoices with AI-driven parsing and automated reminders.       |[![Postgres](https://skillicons.dev/icons?i=postgres,nodejs,express,react)](https://skillicons.dev)  |  🟠 In Progress   | [View](#)    |
 
 
 
