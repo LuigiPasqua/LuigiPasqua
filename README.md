@@ -44,14 +44,14 @@ Currently diving deep into software engineering — from high-level architecture
 
 
 
----
+---instagram
 
 ## 📫 Contact
 
 | Channel     | Link                                 |
 |-------------|--------------------------------------|
-| GitHub      | [github.com/LuigiPasqua](https://github.com/LuigiPasqua)        |
-| LinkedIn    | [linkedin.com/in/LuigiPasqua](https://www.linkedin.com/in/luigi-pasqua-6b639012a)   |
-| X | [https://x.com/luigipasquaofc](https://x.com/luigipasquaofc)
-| Instagram| [https://www.instagram.com/luigipasquaoficial](https://www.instagram.com/luigipasquaoficial)
+| [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)      | [github.com/LuigiPasqua](https://github.com/LuigiPasqua)        |
+| [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)  | [linkedin.com/in/LuigiPasqua](https://www.linkedin.com/in/luigi-pasqua-6b639012a)   |
+| [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev) | [https://x.com/luigipasquaofc](https://x.com/luigipasquaofc)
+| [![Instagram](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) | [https://www.instagram.com/luigipasquaoficial](https://www.instagram.com/luigipasquaoficial)
 
