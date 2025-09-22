@@ -27,7 +27,7 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Area                                 | Core Topics/Principles                         | Tools & Icons                                                                 |
 |-------------------------------------|------------------------------------------------|--------------------------------------------------------------------------------|
-| **Software Architecture & System Design** | First Principles Of Software Architecture| [🏗️ SpecForge - Architecture Documentation Framework ](https://github.com/LuigiPasqua/SpecForge)|
+| **Software Architecture & System Design** | First Principles Of Software Architecture| [🏗️ SpecForge - Architecture Documentation Framework](https://github.com/LuigiPasqua/SpecForge)|
 | **Data Science Foundations**        | Data Engineering, Data Analysis, ML, Data Visualization | [![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)    |
 | **Backend Development**             | Security, Logic, API                          | [![NodeJS](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)      |
 | **Frontend Development**            | UX, UI, Components                            | [![HTML](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev) |
@@ -39,7 +39,7 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Project            | Brief Description                         | Technologies                  | Status    | Link         |
 |--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
-| InvoiceFlow |  InvoiceFlow is a PERN stack SaaS app for freelancers to manage invoices with AI-driven parsing and automated reminders.       |[![Postgres](https://skillicons.dev/icons?i=postgres,nodejs,express,react)](https://skillicons.dev)  |  🟠 In Progress   | [View](#)    |
+| InvoiceFlow |  InvoiceFlow is a PERN stack SaaS app for freelancers to manage invoices with AI-driven parsing and automated reminders.       |[![Postgres](https://skillicons.dev/icons?i=postgres,nodejs,express,react)](https://skillicons.dev)  |  🟠 In Progress   | [View](https://github.com/LuigiPasqua/Invoice-Flow)    |
 
 
 
