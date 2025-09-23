@@ -39,7 +39,7 @@ Currently diving deep into software engineering — from high-level architecture
 
 | Project            | Brief Description                         | Technologies                  | Status    | Link         |
 |--------------------|-------------------------------------------|-------------------------------|-----------|--------------|
-| InvoiceFlow |  InvoiceFlow is a PERN stack SaaS app for freelancers to manage invoices with AI-driven parsing and automated reminders.       |[![Postgres](https://skillicons.dev/icons?i=postgres,nodejs,express,react)](https://skillicons.dev)  |  🟠 In Progress   | [View](https://github.com/LuigiPasqua/Invoice-Flow)    |
+| InvoiceFlow |  InvoiceFlow is a PERN stack SaaS app for freelancers to manage invoices with AI-driven parsing and automated reminders.       |[![Postgres](https://skillicons.dev/icons?i=postgres,nodejs,express,react,typescript)](https://skillicons.dev)  |  🟠 In Progress   | [View](https://github.com/LuigiPasqua/Invoice-Flow)    |
 
 
 
